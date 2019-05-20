@@ -1,0 +1,6 @@
+module.exports = {
+    //...
+    baseUrl: '/',
+    outputDir: '../express-server/dist', // 打包的目录
+    //...
+}
